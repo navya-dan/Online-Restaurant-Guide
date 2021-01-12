@@ -1,1 +1,1 @@
-# e-Restaurant-Managment
+# e-Restaurant-Management
